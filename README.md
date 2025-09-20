@@ -1,11 +1,18 @@
-# Label AI: AI-Powered Food Intelligence
+# 🧬 **Label AI** - Revolutionizing Food Intelligence with Computer Vision & AI
 
 **Label AI** transforms food label analysis using advanced computer vision and AI to deliver instant nutritional insights.
 
 ## 🎯 Solution
 
 Addressing the 73% consumer struggle with food labels, Label AI combines **computer vision** and **NLP** to democratize nutritional literacy.
-
+```mermaid
+graph LR
+    A[📸 Image Capture] --> B[🔍 Vision Processing]
+    B --> C[🧬 OCR Engine]
+    C --> D[🤖 Gemini AI]
+    D --> E[💊 Health Analysis]
+    E --> F[📊 Risk Dashboard]
+```
 ## ⚡ Key Differentiators
 
 - **AI-Powered Intelligence**: Gemini 2.0 Flash integration with multi-modal learning
@@ -40,6 +47,18 @@ Addressing the 73% consumer struggle with food labels, Label AI combines **compu
 
 ---
 
-**Experience the future of food intelligence:** [Live Demo](https://labelai-kappa.vercel.app/) | [Contact](mailto:h30s.soni@gmail.com)
+## 📬 **Contact & Demo**
 
-**Built with ❤️ by h30s aka Himanshu Soni**
+<div align="center">
+
+**Ready to experience the future of food intelligence?**
+
+[![Request Demo](https://img.shields.io/badge/Request%20Demo-8B5CF6?style=for-the-badge)](mailto:h30s.soni@gmail.com)
+[![Watch Video](https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@h30shimanshusoni97)
+
+**Built with ❤️ and 🧬 by h30s aka Himanshu Soni**
+
+*"Making every bite a conscious choice"*
+
+</div>
+
