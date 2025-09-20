@@ -2,9 +2,24 @@
 
 **Label AI** transforms food label analysis using advanced computer vision and AI to deliver instant nutritional insights.
 
-## 🎯 Solution
+##
+<div align="center">
+    <a href="https://www.canva.com/design/DAGzfT0CeJQ/Icyw7j7nU6aprakKtwE-mw/edit?utm_content=DAGzfT0CeJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+        <img src="https://img.shields.io/badge/Pitch%20Desk-8B5CF6?style=for-the-badge" alt="Pitch Desk">
+    </a>
+<!--     <br> -->
+    <a href="https://labelai-kappa.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-1C7F56?style=for-the-badge" alt="Live Demo">
+    </a>
+</div>
+
+
+## 🎯 Solution 
 
 Addressing the 73% consumer struggle with food labels, Label AI combines **computer vision** and **NLP** to democratize nutritional literacy.
+
+
+
 ```mermaid
 graph LR
     A[📸 Image Capture] --> B[🔍 Vision Processing]
@@ -53,7 +68,9 @@ graph LR
 
 **Ready to experience the future of food intelligence?**
 
-[![Request Demo](https://img.shields.io/badge/Request%20Demo-8B5CF6?style=for-the-badge)](mailto:h30s.soni@gmail.com)
+[![Pitch Desk](https://img.shields.io/badge/Pitch%20Desk-8B5CF6?style=for-the-badge)](https://www.canva.com/design/DAGzfT0CeJQ/Icyw7j7nU6aprakKtwE-mw/edit?utm_content=DAGzfT0CeJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 [![Watch Video](https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@h30shimanshusoni97)
 
 **Built with ❤️ and 🧬 by h30s aka Himanshu Soni**
