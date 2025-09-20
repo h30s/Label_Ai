@@ -71,7 +71,7 @@ graph LR
 [![Pitch Desk](https://img.shields.io/badge/Pitch%20Desk-8B5CF6?style=for-the-badge)](https://www.canva.com/design/DAGzfT0CeJQ/Icyw7j7nU6aprakKtwE-mw/edit?utm_content=DAGzfT0CeJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-[![Watch Video](https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@h30shimanshusoni97)
+[![Watch Video](https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/48Rrrp5pHG0)
 
 **Built with ❤️ and 🧬 by h30s aka Himanshu Soni**
 
